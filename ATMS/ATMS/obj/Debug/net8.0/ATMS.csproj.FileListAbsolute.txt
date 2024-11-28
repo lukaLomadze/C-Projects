@@ -1,0 +1,14 @@
+C:\Users\lukaloma\source\repos\ATMS\ATMS\bin\Debug\net8.0\ATMS.exe
+C:\Users\lukaloma\source\repos\ATMS\ATMS\bin\Debug\net8.0\ATMS.deps.json
+C:\Users\lukaloma\source\repos\ATMS\ATMS\bin\Debug\net8.0\ATMS.runtimeconfig.json
+C:\Users\lukaloma\source\repos\ATMS\ATMS\bin\Debug\net8.0\ATMS.dll
+C:\Users\lukaloma\source\repos\ATMS\ATMS\bin\Debug\net8.0\ATMS.pdb
+C:\Users\lukaloma\source\repos\ATMS\ATMS\obj\Debug\net8.0\ATMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukaloma\source\repos\ATMS\ATMS\obj\Debug\net8.0\ATMS.AssemblyInfoInputs.cache
+C:\Users\lukaloma\source\repos\ATMS\ATMS\obj\Debug\net8.0\ATMS.AssemblyInfo.cs
+C:\Users\lukaloma\source\repos\ATMS\ATMS\obj\Debug\net8.0\ATMS.csproj.CoreCompileInputs.cache
+C:\Users\lukaloma\source\repos\ATMS\ATMS\obj\Debug\net8.0\ATMS.dll
+C:\Users\lukaloma\source\repos\ATMS\ATMS\obj\Debug\net8.0\refint\ATMS.dll
+C:\Users\lukaloma\source\repos\ATMS\ATMS\obj\Debug\net8.0\ATMS.pdb
+C:\Users\lukaloma\source\repos\ATMS\ATMS\obj\Debug\net8.0\ATMS.genruntimeconfig.cache
+C:\Users\lukaloma\source\repos\ATMS\ATMS\obj\Debug\net8.0\ref\ATMS.dll

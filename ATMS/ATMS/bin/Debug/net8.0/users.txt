@@ -1,0 +1,32 @@
+[
+  {
+    "ID": 1,
+    "Name": "luka",
+    "Password": "3333",
+    "Amount": 200
+  },
+  {
+    "ID": 2,
+    "Name": "nika",
+    "Password": "2222",
+    "Amount": 20
+  },
+  {
+    "ID": 4,
+    "Name": "gaga",
+    "Password": "4444",
+    "Amount": 300
+  },
+  {
+    "ID": 5,
+    "Name": "gigi",
+    "Password": "5555",
+    "Amount": 400
+  },
+  {
+    "ID": 6,
+    "Name": "tato",
+    "Password": "6666",
+    "Amount": 600
+  }
+]

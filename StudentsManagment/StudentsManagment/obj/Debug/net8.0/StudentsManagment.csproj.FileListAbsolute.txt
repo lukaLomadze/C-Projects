@@ -1,0 +1,14 @@
+C:\Users\lukaloma\source\repos\StudentsManagment\StudentsManagment\bin\Debug\net8.0\StudentsManagment.exe
+C:\Users\lukaloma\source\repos\StudentsManagment\StudentsManagment\bin\Debug\net8.0\StudentsManagment.deps.json
+C:\Users\lukaloma\source\repos\StudentsManagment\StudentsManagment\bin\Debug\net8.0\StudentsManagment.runtimeconfig.json
+C:\Users\lukaloma\source\repos\StudentsManagment\StudentsManagment\bin\Debug\net8.0\StudentsManagment.dll
+C:\Users\lukaloma\source\repos\StudentsManagment\StudentsManagment\bin\Debug\net8.0\StudentsManagment.pdb
+C:\Users\lukaloma\source\repos\StudentsManagment\StudentsManagment\obj\Debug\net8.0\StudentsManagment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukaloma\source\repos\StudentsManagment\StudentsManagment\obj\Debug\net8.0\StudentsManagment.AssemblyInfoInputs.cache
+C:\Users\lukaloma\source\repos\StudentsManagment\StudentsManagment\obj\Debug\net8.0\StudentsManagment.AssemblyInfo.cs
+C:\Users\lukaloma\source\repos\StudentsManagment\StudentsManagment\obj\Debug\net8.0\StudentsManagment.csproj.CoreCompileInputs.cache
+C:\Users\lukaloma\source\repos\StudentsManagment\StudentsManagment\obj\Debug\net8.0\StudentsManagment.dll
+C:\Users\lukaloma\source\repos\StudentsManagment\StudentsManagment\obj\Debug\net8.0\refint\StudentsManagment.dll
+C:\Users\lukaloma\source\repos\StudentsManagment\StudentsManagment\obj\Debug\net8.0\StudentsManagment.pdb
+C:\Users\lukaloma\source\repos\StudentsManagment\StudentsManagment\obj\Debug\net8.0\StudentsManagment.genruntimeconfig.cache
+C:\Users\lukaloma\source\repos\StudentsManagment\StudentsManagment\obj\Debug\net8.0\ref\StudentsManagment.dll
